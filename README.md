@@ -18,25 +18,19 @@ The platform will not have any login/ register functionalities initially because
 ### 4. Develop AI that filters 'good' and 'bad' comments
 This happens when the user turns off commenting on a forum post.
 Considerations:
-<li>
-<ul> What AI algorithm to apply (greedy, max-min, alpha-beta pruning, something else?)
-<ul> How to implement AI?
-<ul> Where to get examples of 'bad' comments?
-<ul> How to feed this information to the system?
-<ul> How to work with the data gained from this reading other 'bad' comments?
-</li>
+<li> What AI algorithm to apply (greedy, max-min, alpha-beta pruning, something else?)
+<li> How to implement AI?
+<li> Where to get examples of 'bad' comments?
+<li> How to feed this information to the system?
+<li> How to work with the data gained from this reading other 'bad' comments?
 
 ### 5. Fluff
 Proposed features:
-<li>
-<ul> Register, log in functionalities
-<ul> Upload pictures to forums
-</li>
+<li> Register, log in functionalities
+<li> Upload pictures to forums
 
 ## Things I do not want
-<li>
-<ul> Elaborate forum features like profile, dashboard, etc. This is meant to be a short project exploring a very specific question, not an attempt to create a dummy profile.
-</li>
+<li> Elaborate forum features like profile, dashboard, etc. This is meant to be a short project exploring a very specific question, not an attempt to create a dummy profile.
 
 
 
