@@ -11,8 +11,8 @@ Does Instagram have AI that assists with deleting malicious comments when a user
 ### 2. Basic Forum
 The platform will not have any login/ register functionalities initially because that does not contribute to the larger goal of my question. Instead, users will be provided with a randomised username (which may change everytime?). The only functionalities availble will be: 
 <li>
-<ul> Forum posting and commenting
-<ul> Toggle option to turn on/ off comments - anyone can do it initially because sign in/ register options do not exist
+Forum posting and commenting
+Toggle option to turn on/ off comments - anyone can do it initially because sign in/ register options do not exist
 </li>
 
 ### 3. Testing
