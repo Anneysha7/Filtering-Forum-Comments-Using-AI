@@ -8,7 +8,7 @@ Does Instagram have AI that assists with deleting malicious comments when a user
 
 ### 1. Design Document (due: 25/09/2022)
 **Useful resources**
-<li> [How to write a design document] (https://comp.anu.edu.au/courses/comp2300/resources/design-document/)
+<li> How to write a design document: https://comp.anu.edu.au/courses/comp2300/resources/design-document/
 
 ### 2. Basic Forum
 The platform will not have any login/ register functionalities initially because that does not contribute to the larger goal of my question. Instead, users will be provided with a randomised username (which may change everytime?). The only functionalities availble will be: 
